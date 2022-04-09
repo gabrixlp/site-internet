@@ -1,0 +1,80 @@
+body {
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+body, html {
+    height: 100%;
+}
+body {
+    font-size: 10px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+:root {
+    --color_0: 255,255,255;
+    --color_1: 18,17,19;
+    --color_2: 164,50,52;
+    --color_3: 54,55,79;
+    --color_4: 223,223,224;
+    --color_5: 212,171,89;
+    --color_6: 255,255,255;
+    --color_7: 196,192,199;
+    --color_8: 137,130,143;
+    --color_9: 77,73,82;
+    --color_10: 18,17,19;
+    --color_11: 255,255,255;
+    --color_12: 196,192,199;
+    --color_13: 137,130,143;
+    --color_14: 77,73,82;
+    --color_15: 18,17,19;
+    --color_16: 232,179,180;
+    --color_17: 209,104,106;
+    --color_18: 164,50,52;
+    --color_19: 109,33,35;
+    --color_20: 55,17,17;
+    --color_21: 210,211,224;
+    --color_22: 165,167,194;
+    --color_23: 121,122,163;
+    --color_24: 85,86,124;
+    --color_25: 54,55,79;
+    --color_26: 239,239,240;
+    --color_27: 223,223,224;
+    --color_28: 166,166,169;
+    --color_29: 110,110,114;
+    --color_30: 55,55,57;
+    --color_31: 234,213,172;
+    --color_32: 212,171,89;
+    --color_33: 179,135,46;
+    --color_34: 120,90,31;
+    --color_35: 60,45,15;
+    --font_0: normal normal normal 22px/1.41em montserrat,sans-serif;
+    --font_1: normal normal normal 14px/1.79em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+    --font_2: normal normal normal 28px/1.375em montserrat,sans-serif;
+    --font_3: normal normal normal 88px/1.2em montserrat,sans-serif;
+    --font_4: normal normal normal 72px/1.25em montserrat,sans-serif;
+    --font_5: normal normal normal 50px/1.34em montserrat,sans-serif;
+    --font_6: normal normal normal 40px/1.35em montserrat,sans-serif;
+    --font_7: normal normal normal 20px/1.67em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;
+    --font_8: normal normal normal 18px/1.75em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;
+    --font_9: normal normal normal 15px/1.875em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+    --font_10: normal normal normal 14px/1.79em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+    --wix-ads-height: 50px;
+    --wix-ads-top-height: 50px;
+    --site-width: 980px;
+    --above-all-z-index: 100000;
+    --portals-z-index: 100001;
+    --minViewportSize: 320;
+    --maxViewportSize: 1920;
+}
